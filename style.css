@@ -1,0 +1,47 @@
+body{
+    background-color:  #e4eaf0;
+   
+}
+
+.imagem_principal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo{
+   text-align: center;
+   font-family: 'Andale Mono', monospace;
+   text-transform: uppercase;
+   color: white;
+   font-size: 50px;
+   margin-top: 5px;
+}
+
+.principal{
+    background-color: #6e7e8d;
+    height: 300px;
+}
+
+.pesquisa{
+    text-align: end;
+    color: white;
+    font-family: 'Andale Mono', monospace;
+    font-size: 15px;
+    margin-right: 5px;
+    text-transform: uppercase;
+}
+
+.formulario1{
+    margin-top: 5%;
+    text-align: center;
+    font-family: 'Andale Mono', monospace;
+    text-transform: uppercase;
+    color: #6e7e8d;
+    font-weight: bolder;
+    border: 1px solid black;
+}
+
+.email{
+    text-align: start;
+}
